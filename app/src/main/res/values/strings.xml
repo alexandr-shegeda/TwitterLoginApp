@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Twitter Login</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="success_login">Вход выполнен</string>
+</resources>
